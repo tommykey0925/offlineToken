@@ -1,0 +1,5 @@
+### vscode ###
+.vscode/
+
+### keycloakData ###
+.devcontainer/data/
